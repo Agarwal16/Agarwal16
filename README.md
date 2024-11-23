@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Safety App**
+- 🔭 I’m currently working on **EcoWheel App**
 
 - 🌱 I’m currently learning **Kotlin, Android Development , Competetive Programming**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 💬 Ask me about **JAVA , C , XML , Kotlin**
+- 💬 Ask me about **JAVA , C++ , XML , Kotlin**
 
 - 📫 How to reach me **agarwaltanmay401@gmail.com**
 
